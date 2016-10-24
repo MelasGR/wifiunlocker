@@ -1,0 +1,6 @@
+{
+  "name": "Wifi Greek WPS Unlocker",
+  "tagline": "WPS PIN Recovery tool",
+  "body": "# **WPS PIN Recovery tool**\r\n\r\nThis application recover the default WPS PIN.\r\nYou can connect to wireless networks which have enable the protocol WPS.\r\n\r\nThe application was developed for educational purposes.\r\n\r\nIn this application you can check if your router is vulnerable or not.\r\nif you realize someone has security problem you must inform immediately.\r\n\r\nI am not responsible for the misuse that can be given.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
